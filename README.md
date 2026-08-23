@@ -15,23 +15,36 @@
 
 <h1 align="center">Hi 👋, I'm Carlos Garcia</h1>
 
-<h3 align="center">Computer Science Engineer & Full Stack Developer</h3>
+<h3 align="center">
+  Computer Science Engineer & Full Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Engineering+Graduate;Full+Stack+Developer;React+%7C+Node.js+%7C+Java+%7C+SQL;Building+Modern+Web+Applications" alt="Typing SVG">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Engineer;Full+Stack+Developer;React+%7C+Node.js+%7C+Kotlin+%7C+SQL;Building+Modern+Web+Applications"
+    alt="Typing SVG"
+  >
 </p>
 
 
 <!-- Links -->
 
 <p align="center">
-  <a href="https://ifeanyi-nneji.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://ifeanyi-nneji.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
   &nbsp;
-  <a href="mailto:carlosgarcian.2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:carlosgarcian.2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/carlos-garcia10/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/carlos-garcia10/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   &nbsp;
-  <a href="https://github.com/036Carlos"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/036Carlos">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 <br>
@@ -42,26 +55,19 @@
 <h2 align="center">💫 About Me</h2>
 
 <p align="center">
-  I'm a <strong>Computer Science Engineering Graduate</strong> and
-  <strong>Full Stack Developer</strong> focused on building modern,
+  I'm a <strong>Full Stack Developer</strong> focused on building modern,
   scalable, responsive and user-friendly web applications.
 </p>
 
 <p align="center">
-  I graduated in <strong>Computer Science Engineering</strong> from
-  <strong>Universidad Católica de Honduras (UNICAH)</strong>,
-  where I studied from <strong>2022 to 2026</strong>.
-</p>
-
-<p align="center">
-  I build frontend applications with <strong>React, Vite and Vue.js</strong>
-  and backend solutions using <strong>Node.js, Express.js and Java</strong>,
+  I develop frontend interfaces with <strong>React, Vite and Vue.js</strong>
+  and backend solutions with <strong>Node.js and Express.js</strong>,
   including REST APIs and database-driven systems.
 </p>
 
 <p align="center">
-  I also work with relational and NoSQL databases, database modeling,
-  UI/UX design and data visualization.
+  I'm also interested in database design, backend architecture,
+  UI/UX and data visualization.
 </p>
 
 <br>
@@ -71,6 +77,8 @@
   Universidad Católica de Honduras — UNICAH<br>
   2022 – 2026
 </p>
+
+<br>
 
 <p align="center">
   🔭 <strong>Currently working on</strong><br>
@@ -104,7 +112,7 @@
 
 <h3 align="center">💻 Programming Languages</h3>
 
-<p align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">&nbsp;<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></p>
+<p align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></p>
 
 <br>
 
@@ -112,7 +120,12 @@
 <!-- Frontend -->
 
 <h3 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25" alt="Code">
+  <img
+    src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+    width="25"
+    height="25"
+    alt="Code"
+  >
   Frontend Development
 </h3>
 
@@ -143,7 +156,7 @@
 <p align="center"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">&nbsp;<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">&nbsp;<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">&nbsp;<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"></p>
 
 <p align="center">
-  SQL • NoSQL • Relational Modeling • Database Design • Query Optimization • Indexes
+  SQL • NoSQL • Relational Modeling • Database Design • Query Optimization
 </p>
 
 <br>
@@ -199,11 +212,17 @@
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:carlosgarcian.2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-carlosgarcian.2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:carlosgarcian.2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-carlosgarcian.2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/carlos-garcia10/"><img src="https://img.shields.io/badge/LinkedIn-Carlos_Garcia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/carlos-garcia10/">
+    <img src="https://img.shields.io/badge/LinkedIn-Carlos_Garcia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   &nbsp;
-  <a href="https://github.com/036Carlos"><img src="https://img.shields.io/badge/GitHub-036Carlos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/036Carlos">
+    <img src="https://img.shields.io/badge/GitHub-036Carlos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 <br>
@@ -214,7 +233,10 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=036Carlos&hide_border=true&border_radius=19.5&hide=followers" alt="Carlos Garcia GitHub Stats">
+  <img
+    src="https://ghstats.dev/api/card?username=036Carlos&hide_border=true&border_radius=19.5&hide=followers"
+    alt="Carlos Garcia GitHub Stats"
+  >
 </p>
 
 <br>
@@ -225,7 +247,11 @@
 <h2 align="center">🐍 Activity</h2>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/036Carlos/036Carlos/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Activity">
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/036Carlos/036Carlos/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Activity"
+  >
 </p>
 
 <br>
@@ -238,5 +264,9 @@
 </h3>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:2563EB,100:38BDF8" alt="Footer">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,50:2563EB,100:38BDF8"
+    alt="Footer"
+  >
 </div>
